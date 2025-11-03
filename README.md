@@ -1,8 +1,6 @@
 # Conversion of Indian Sign Language (ISL) to Text and Speech
 
-This repository contains the **project report** for my mini-project titled  
-**“Conversion of Indian Sign Language (ISL) to Text and Speech”**, submitted as part of the **Bachelor of Technology in Computer Engineering (2024–2025)** at  
-**Usha Mittal Institute of Technology, SNDT Women’s University, Mumbai**.
+This repository contains the **project report** for my mini-project titled **“Conversion of Indian Sign Language (ISL) to Text and Speech”**, submitted as part of the **Bachelor of Technology in Computer Engineering (2024–2025)** at **Usha Mittal Institute of Technology, SNDT Women’s University, Mumbai**.
 
 ---
 
